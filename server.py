@@ -1,3 +1,11 @@
+"""
+Author : Eric Muli
+Github : github.com/EricRootLee
+Page Title : Server Side Code
+Platform : Any Os
+Target : N/A
+Technology : Python
+"""
 
 from socket import  socket ,AF_INET,SOCK_DGRAM
 

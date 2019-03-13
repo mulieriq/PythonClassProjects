@@ -1,3 +1,14 @@
+
+"""
+Author : Eric Muli
+Github : github.com/EricRootLee
+Page Title : Client Side Code
+Platform : Any Os
+Target : N/A
+Technology : Python
+"""
+
+
 from socket import socket ,AF_INET,SOCK_DGRAM
 
 sock = socket(AF_INET, SOCK_DGRAM)
